@@ -1,0 +1,6 @@
+dangnhap wordpress
+use:admin 
+pass:admin
+
+http://thuctap.com:81/one/
+http://thuctap.com:81/one/wp-admin
